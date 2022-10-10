@@ -201,12 +201,9 @@ while game_counter != 10:
 if player_points > computer_points:
     print(f'The winner between {favorite_team} and {computer_team} is {favorite_team}')
     print('Congratulations! You Won The World Cup!')
-    exit()
 elif player_points == computer_points:
     print(f'The final result is draw. You have {player_points} points and your opponent has {computer_points} points.')
     print(f'You have to play once again if you want to be a champion.')
-    exit()
 else:
     print(f'The winner between {favorite_team} and {computer_team} is {computer_team}')
     print('I am sorry, but you lose the final of The World Cup!!!')
-    exit()
