@@ -4,4 +4,3 @@ This is a common game, rock, paper, scissors. Everyone knows it, but I decided t
 <br>
 [Click Here If You Want To Play](https://replit.com/@HristianBalevsk/Rock-Paper-Scissors-World-Cup?v=1)
 <br>
-<img align="center" alt="Rock, Paper, Scissors" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png">
