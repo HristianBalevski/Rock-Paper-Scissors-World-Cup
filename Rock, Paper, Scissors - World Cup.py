@@ -8,7 +8,7 @@ list_of_countries = ['Argentina', 'Brazil', 'Bulgaria', 'China', 'Denmark', 'Egy
                      'Jamaica', 'Morocco', 'Latvia', 'Mexico', 'Netherlands', 'Nigeria', 'Portugal', 'Qatar', 'Russia',
                      'Spain', 'Turkey', 'Ukraine', 'Venezuela', 'Cameron', 'Romania']
 
-symbols = ['✋🏻', '✊🏻', '✌️🏻️']
+symbols = ['✋', '👊', '✌️']
 home = random.choice(list_of_countries)
 
 print(f'Welcome to World Cup {home} {year}')
@@ -24,9 +24,9 @@ computer_team = random.choice(list_of_countries)
 print(f"Opponent's Team is {computer_team}.")
 print()
 
-rock = '✊🏻'
-paper = '✋🏻'
-scissors = '✌️🏻️'
+rock = '👊'
+paper = '✋'
+scissors = '✌️'
 
 player_points = 0
 computer_points = 0
