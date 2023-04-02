@@ -76,7 +76,7 @@ while True:
 
 if player_points > computer_points:
     print(f'Congratulations! You Won The World Cup {home} {year}!')
-    print(f'The winner between {player_team} {player_points} points and {computer_team} {computer_points} points. is {player_team}!')
+    print(f'The winner between {player_team} {player_points} points and {computer_team} {computer_points} points is {player_team}!')
 else:
     print(f'I am sorry, but you lose the final of The World Cup {home} {year}!')
     print(f'The winner between {computer_team} {computer_points} points and {player_team} {player_points} points is {computer_team}!')
